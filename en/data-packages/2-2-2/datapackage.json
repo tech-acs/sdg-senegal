@@ -1,0 +1,295 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "3",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CA",
+                "C",
+                "M",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Height/length modality (standing/lying) was not collected ",
+                "Reduced age range Age 0-5 months not covered; unadjusted",
+                "Figure is a modelled estimate. For primary sources, please refer to the metadata.",
+                "The estimates for the year 2020 do not account for the full impact of COVID-19.  Household survey data on child height and age were not collected in 2020 due to physical distancing policies. One of the covariates used in the country model takes the impact of COVID-19 partially into account. , Figure is a modelled estimate. For primary sources, please refer to the metadata.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8.4",
+                "7.3",
+                "7.9",
+                "8",
+                "4.6",
+                "464.8",
+                "440.6",
+                "487.5",
+                "525.6",
+                "326.8",
+                "8.2",
+                "8.5",
+                "8.6",
+                "7.8",
+                "7.4",
+                "7",
+                "6.6",
+                "6.4",
+                "6.2",
+                "6",
+                "5.9",
+                "6.1",
+                "6.3",
+                "6.5",
+                "6.8",
+                "7.1",
+                "455.5",
+                "488.4",
+                "508.6",
+                "516.7",
+                "515.3",
+                "506.7",
+                "491.1",
+                "475.5",
+                "461.2",
+                "448.1",
+                "436.6",
+                "429.2",
+                "422.8",
+                "418.2",
+                "417.1",
+                "420.8",
+                "427.2",
+                "438",
+                "453.6",
+                "474.2",
+                "499.5",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6.5",
+                "5.3",
+                "6.1",
+                "6",
+                "3.8",
+                "360.1",
+                "317.3",
+                "381",
+                "398.3",
+                "264.1",
+                "5.6",
+                "5.8",
+                "5.9",
+                "5.2",
+                "4.9",
+                "4.5",
+                "4.2",
+                "3.9",
+                "3.7",
+                "3.5",
+                "3.3",
+                "3.2",
+                "3.1",
+                "3",
+                "2.9",
+                "2.8",
+                "312",
+                "336.1",
+                "350.8",
+                "355.7",
+                "352.9",
+                "344.9",
+                "331",
+                "315.3",
+                "299.7",
+                "285",
+                "270.7",
+                "257.8",
+                "245.1",
+                "233.4",
+                "223.4",
+                "215.3",
+                "208.1",
+                "203",
+                "199.8",
+                "198",
+                "197.1",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya multiple indicator cluster survey 2000 (MICS). Government  of Kenya and Unicef. Nairobi, Kenya, 2002",
+                "Kenya demographic and health survey 2003. Demographic and Health Surveys. Calverton, Maryland: CBS, MOH, and ORC Macro, 2004",
+                "Kenya integrated household budget survey (KIHBS), 2005/06: Revised edition, basic report. Nairobi, Kenya 2006",
+                "Kenya demographic and health survey 2008-09. Demographic and Health Surveys. Calverton, Maryland: KNBS and ICF Macro, 2010",
+                "Kenya 2011 National Micronutrient Survey",
+                "Kenya demographic and health Survey (2014 KDHS): Final Report. Demongraphic and Health Surveys. Nairobi, Kenya: KNBS, Ministry of Health, NACC, KEMRI, NCPD, 2015",
+                "Source: Joint Child Malnutrition Estimates (2021 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children moderately or severely wasted [2.2.2]",
+                "Children moderately or severely wasted (number) [2.2.2]",
+                "Proportion of children moderately or severely overweight [2.2.2]",
+                "Children moderately or severely overweight (number) [2.2.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Adjusted",
+                "Modeled",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reduced age range Age 0-5 months not covered; unadjusted",
+                "The estimates for the year 2020 do not account for the full impact of COVID-19.  Household survey data on child height and age were not collected in 2020 due to physical distancing policies. One of the covariates used in the country model takes the impact of COVID-19 partially into account. , Figure is a modelled estimate. For primary sources, please refer to the metadata.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4.6",
+                "326.8",
+                "7.1",
+                "499.5",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3.8",
+                "264.1",
+                "2.8",
+                "197.1",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya demographic and health Survey (2014 KDHS): Final Report. Demongraphic and Health Surveys. Nairobi, Kenya: KNBS, Ministry of Health, NACC, KEMRI, NCPD, 2015",
+                "Source: Joint Child Malnutrition Estimates (2021 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-2",
+  "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+}

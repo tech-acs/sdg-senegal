@@ -1,0 +1,76 @@
+Year,UPPER_BOUND,LOWER_BOUND,SDG Series,Sex,Age,Composite breakdown,Unit of measure,Upper bound value,Lower bound value,Value
+2000,31818,15435,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cardiovascular disease,Number,52048,23772,22517.0
+2005,31387,16402,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cardiovascular disease,Number,52048,23772,23008.0
+2010,35746,17838,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cardiovascular disease,Number,52048,23772,25704.0
+2015,41812,19459,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cardiovascular disease,Number,52048,23772,29141.0
+2019,52048,23772,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cardiovascular disease,Number,52048,23772,35994.0
+2000,19869,9759,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cancer,Number,48365,22564,13868.0
+2005,24624,13111,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cancer,Number,48365,22564,17805.0
+2010,32415,16946,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cancer,Number,48365,22564,23228.0
+2015,39524,19551,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cancer,Number,48365,22564,27690.0
+2019,48365,22564,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Cancer,Number,48365,22564,33028.0
+2000,8428,2836,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Chronic respiratory disease,Number,12009,4150,4916.0
+2005,8353,2863,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Chronic respiratory disease,Number,12009,4150,4902.0
+2010,9775,3202,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Chronic respiratory disease,Number,12009,4150,5540.0
+2015,10350,3498,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Chronic respiratory disease,Number,12009,4150,5995.0
+2019,12009,4150,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Chronic respiratory disease,Number,12009,4150,7062.0
+2000,5347,3042,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Diabetes,Number,9345,4932,4074.0
+2005,5214,3212,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Diabetes,Number,9345,4932,4110.0
+2010,5956,3568,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Diabetes,Number,9345,4932,4659.0
+2015,7247,4012,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Diabetes,Number,9345,4932,5462.0
+2019,9345,4932,Deaths attributed non-communicable diseases (number) [3.4.1],,,Non-communicable disease: Diabetes,Number,9345,4932,6901.0
+2000,15819,6920,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cardiovascular disease,Number,26419,11474,10809.0
+2005,16033,7623,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cardiovascular disease,Number,26419,11474,11417.0
+2010,18938,8367,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cardiovascular disease,Number,26419,11474,13068.0
+2015,21863,9334,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cardiovascular disease,Number,26419,11474,14866.0
+2019,26419,11474,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cardiovascular disease,Number,26419,11474,18030.0
+2000,11277,5196,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cancer,Number,29119,12921,7616.0
+2005,14306,7076,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cancer,Number,29119,12921,9930.0
+2010,19504,9235,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cancer,Number,29119,12921,13171.0
+2015,24054,11114,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cancer,Number,29119,12921,16185.0
+2019,29119,12921,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Cancer,Number,29119,12921,19274.0
+2000,4384,1248,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Chronic respiratory disease,Number,6599,1833,2393.0
+2005,4429,1270,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Chronic respiratory disease,Number,6599,1833,2375.0
+2010,5539,1485,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Chronic respiratory disease,Number,6599,1833,2798.0
+2015,5863,1610,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Chronic respiratory disease,Number,6599,1833,3012.0
+2019,6599,1833,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Chronic respiratory disease,Number,6599,1833,3455.0
+2000,2254,1199,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Diabetes,Number,4121,2038,1670.0
+2005,2238,1309,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Diabetes,Number,4121,2038,1722.0
+2010,2651,1458,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Diabetes,Number,4121,2038,2008.0
+2015,3270,1675,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Diabetes,Number,4121,2038,2391.0
+2019,4121,2038,Deaths attributed non-communicable diseases (number) [3.4.1],Female,,Non-communicable disease: Diabetes,Number,4121,2038,2960.0
+2000,15999,8515,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cardiovascular disease,Number,25628,12298,11708.0
+2005,15354,8779,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cardiovascular disease,Number,25628,12298,11591.0
+2010,16808,9470,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cardiovascular disease,Number,25628,12298,12636.0
+2015,19949,10125,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cardiovascular disease,Number,25628,12298,14275.0
+2019,25628,12298,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cardiovascular disease,Number,25628,12298,17963.0
+2000,8592,4563,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cancer,Number,19245,9643,6252.0
+2005,10318,6035,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cancer,Number,19245,9643,7875.0
+2010,12911,7711,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cancer,Number,19245,9643,10057.0
+2015,15470,8437,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cancer,Number,19245,9643,11505.0
+2019,19245,9643,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Cancer,Number,19245,9643,13754.0
+2000,4044,1588,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Chronic respiratory disease,Number,5410,2316,2524.0
+2005,3924,1592,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Chronic respiratory disease,Number,5410,2316,2528.0
+2010,4237,1717,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Chronic respiratory disease,Number,5410,2316,2742.0
+2015,4486,1888,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Chronic respiratory disease,Number,5410,2316,2983.0
+2019,5410,2316,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Chronic respiratory disease,Number,5410,2316,3607.0
+2000,3094,1842,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Diabetes,Number,5224,2894,2404.0
+2005,2976,1903,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Diabetes,Number,5224,2894,2388.0
+2010,3305,2111,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Diabetes,Number,5224,2894,2651.0
+2015,3978,2336,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Diabetes,Number,5224,2894,3071.0
+2019,5224,2894,Deaths attributed non-communicable diseases (number) [3.4.1],Male,,Non-communicable disease: Diabetes,Number,5224,2894,3941.0
+2000,30.2,15.8,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,30 to exact 70 years old,,Percent,29.3,14.6,22.1
+2005,29.5,16.6,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,30 to exact 70 years old,,Percent,29.3,14.6,22.2
+2010,29.9,16.4,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,30 to exact 70 years old,,Percent,29.3,14.6,22.2
+2015,28.9,15,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,30 to exact 70 years old,,Percent,29.3,14.6,21.1
+2019,29.3,14.6,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,30 to exact 70 years old,,Percent,29.3,14.6,21.0
+2000,28.6,13.5,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Female,30 to exact 70 years old,,Percent,28.3,13.1,20.1
+2005,28.1,14.3,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Female,30 to exact 70 years old,,Percent,28.3,13.1,20.3
+2010,29.3,14.3,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Female,30 to exact 70 years old,,Percent,28.3,13.1,20.6
+2015,28.4,13.5,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Female,30 to exact 70 years old,,Percent,28.3,13.1,19.9
+2019,28.3,13.1,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Female,30 to exact 70 years old,,Percent,28.3,13.1,19.6
+2000,32.1,18.5,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Male,30 to exact 70 years old,,Percent,30.6,16.3,24.6
+2005,31.2,19.4,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Male,30 to exact 70 years old,,Percent,30.6,16.3,24.7
+2010,30.8,19,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Male,30 to exact 70 years old,,Percent,30.6,16.3,24.3
+2015,29.7,16.8,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Male,30 to exact 70 years old,,Percent,30.6,16.3,22.5
+2019,30.6,16.3,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",Male,30 to exact 70 years old,,Percent,30.6,16.3,22.7

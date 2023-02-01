@@ -1,0 +1,192 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "47.5",
+                "46.7",
+                "45.7",
+                "44.9",
+                "44.2",
+                "43.3",
+                "42.2",
+                "41.1",
+                "40",
+                "39.2",
+                "38.7",
+                "38.4",
+                "38.3",
+                "38.9",
+                "39.5",
+                "40.1",
+                "40.9",
+                "42.3",
+                "43.9",
+                "47",
+                "46.1",
+                "45.1",
+                "44.3",
+                "43.7",
+                "42.6",
+                "41.5",
+                "40.4",
+                "39.3",
+                "38.1",
+                "37.8",
+                "38.6",
+                "39.8",
+                "40.7",
+                "41.9",
+                "54.4",
+                "53.8",
+                "53.5",
+                "53",
+                "52.6",
+                "52.2",
+                "51.7",
+                "51.2",
+                "50.8",
+                "50.5",
+                "50.1",
+                "49.8",
+                "49.9",
+                "50",
+                "50.3",
+                "51.3",
+                "52",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "31.2",
+                "30.4",
+                "29.3",
+                "28.4",
+                "27.1",
+                "26",
+                "24.9",
+                "23.9",
+                "23",
+                "22.1",
+                "21.3",
+                "20.7",
+                "20",
+                "19.4",
+                "18.8",
+                "18.1",
+                "17.5",
+                "16.7",
+                "16",
+                "15.3",
+                "29.6",
+                "28.7",
+                "27.6",
+                "26.7",
+                "25.5",
+                "24.3",
+                "23.4",
+                "22.3",
+                "21.5",
+                "20.5",
+                "19.8",
+                "19.1",
+                "18.4",
+                "17.7",
+                "17.2",
+                "16.6",
+                "15.9",
+                "15",
+                "14.4",
+                "13.7",
+                "39",
+                "38.4",
+                "37.5",
+                "36.7",
+                "35.9",
+                "35",
+                "34.2",
+                "33.4",
+                "32.5",
+                "31.7",
+                "31",
+                "30.8",
+                "30.2",
+                "29.8",
+                "29.5",
+                "29.1",
+                "27.5",
+                "26.8",
+                "25.8",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 15-49 years with anaemia [2.2.3]",
+                "Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",
+                "Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "43.9",
+                "43.7",
+                "52",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15.3",
+                "13.7",
+                "25.8",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-3",
+  "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+}

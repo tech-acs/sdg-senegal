@@ -1,0 +1,118 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2.55519",
+                "1.41973",
+                "2.29219",
+                "2.56219",
+                "2.75273",
+                "1.01232",
+                "0.55921",
+                "0.89631",
+                "1.00061",
+                "1.07295",
+                "4.2058",
+                "2.32185",
+                "3.78685",
+                "4.20636",
+                "4.5382",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.61939",
+                "0.7469",
+                "1.34635",
+                "1.55424",
+                "1.72682",
+                "0.63927",
+                "0.29329",
+                "0.52145",
+                "0.60285",
+                "0.66723",
+                "2.64829",
+                "1.22475",
+                "2.22851",
+                "2.544",
+                "2.83637",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2.75273",
+                "1.07295",
+                "4.5382",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.72682",
+                "0.66723",
+                "2.83637",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-5-2",
+  "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+}

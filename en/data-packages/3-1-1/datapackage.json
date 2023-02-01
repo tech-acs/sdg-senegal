@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "851",
+                "842",
+                "829",
+                "809",
+                "783",
+                "745",
+                "706",
+                "662",
+                "630",
+                "584",
+                "540",
+                "503",
+                "479",
+                "475",
+                "473",
+                "476",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "589",
+                "588",
+                "579",
+                "565",
+                "544",
+                "515",
+                "484",
+                "450",
+                "421",
+                "383",
+                "349",
+                "318",
+                "294",
+                "283",
+                "275",
+                "268",
+                "259",
+                "253",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-1",
+  "title": "Maternal mortality ratio"
+}
