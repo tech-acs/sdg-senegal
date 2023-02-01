@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
                 "Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
+                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
                 ""
               ]
             },
@@ -43,18 +43,6 @@
               ]
             },
             "title": "SDG Series"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
-                "Obs_Value = 0;  Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

@@ -28,24 +28,11 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations.",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2]",
-                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
                 "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]",
                 ""
               ]
@@ -63,18 +50,6 @@
               ]
             },
             "title": "Observation-level footnotes"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations.",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "Value",

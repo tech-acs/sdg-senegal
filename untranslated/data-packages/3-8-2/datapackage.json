@@ -15,12 +15,24 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Survey-based estimate, using household total consumption expenditure in the denominator",
+                "Obs_Value = 0;  Survey-based estimate, using household total consumption expenditure in the denominator",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenya - Integrated Household Budget Survey 2005-2006",
-                "Kenya - Integrated Household Budget Survey 2015-2016",
+                "Senegal - Deuxième Enquête Sénégalaise Auprès des Ménages 2001 - World Bank SHIP Harmonized Dataset",
+                "Senegal - Enquête de Suivi de la Pauvreté au Sénégal 2005 - World Bank SHIP Harmonized Dataset",
+                "Senegal - Enquête de Suivi de la Pauvreté au Sénégal 2011",
                 ""
               ]
             }

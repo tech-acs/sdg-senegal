@@ -12,21 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Economic activity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Information and communication",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

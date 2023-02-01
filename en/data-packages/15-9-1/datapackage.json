@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ABT2 status: National target reflecting ABT2  exists and progress is there, but at as insufficient rate",
-                "Level/Status: Regular compilation and dissemination",
+                "ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it",
+                "Level/Status: Compilation",
                 ""
               ]
             },

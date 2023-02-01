@@ -29,8 +29,6 @@
                 "African Development Bank Group Annual Report 2018",
                 "African Development Bank Group Annual Report 2019",
                 "Report of the Economic and Social Council for 2005 (A/60/3)",
-                "Report of the Economic and Social Council on its 2019 Session (A/74/3)",
-                "Report of the Economic and Social Council on its 2020 Session (A/75/3/Rev.1)",
                 "The World Bank Annual Report 2000: Financial Statement and Appendixes to the Annual Report",
                 "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2005",
                 "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2010",
@@ -62,6 +60,8 @@
                 "IMF Annual Report 2020",
                 "IMF Annual Report 2021",
                 "UN General Assembly website http://www.un.org/en/member-states/index.html",
+                "Report of the Security Council (A/71/2)",
+                "Report of the Security Council for 2017 (A/72/2)",
                 "WTO Annual Report 2015",
                 "WTO Annual Report 2016",
                 "WTO Annual Report 2017",
@@ -95,6 +95,7 @@
                 "International Organisation: International Finance Corporation",
                 "International Organisation: International Monetary Fund",
                 "International Organisation: UN General Assembly",
+                "International Organisation: UN Security Council",
                 "International Organisation: World Trade Organisation",
                 ""
               ]
@@ -106,11 +107,12 @@
             "constraints": {
               "enum": [
                 "African Development Bank Group Annual Report 2019",
-                "Report of the Economic and Social Council on its 2020 Session (A/75/3/Rev.1)",
+                "Report of the Economic and Social Council for 2005 (A/60/3)",
                 "International Bank for Reconstruction and Development Management’s Discussion & Analysis and Financial Statements June 30, 2021",
                 "IFC 2021 Annual Report Volume 2",
                 "IMF Annual Report 2021",
                 "UN General Assembly website http://www.un.org/en/member-states/index.html",
+                "Report of the Security Council for 2017 (A/72/2)",
                 "WTO Annual Report 2021",
                 ""
               ]

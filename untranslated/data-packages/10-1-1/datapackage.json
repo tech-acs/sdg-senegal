@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 40%",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

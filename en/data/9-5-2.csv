@@ -1,3 +1,6 @@
-Year,COMMENT_OBS,Value
-2007,Partial data,54.39476
-2010,Break in series with previous year for which data are available,221.38592
+Year,NATURE,COMMENT_OBS,SOURCE_DETAIL,Value
+2006,E,Partial data,UNESCO Institute for Statistics.  Data extracted on 15 September 2022.,264.53427
+2007,E,Partial data,UNESCO Institute for Statistics.  Data extracted on 15 September 2022.,280.3951
+2008,C,Break in series with previous year for which data are available,UNESCO Institute for Statistics.  Data extracted on 15 September 2022.,377.09394
+2010,C,,Source: Regional Publication Data extracted on 15 September 2022.,369.06021
+2015,C,Excluding Business enterprise,UNESCO Institute for Statistics.  Data extracted on 15 September 2022.,564.33948

@@ -30,13 +30,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Registration UNSD & WPP2019",
-                "Kenya 2008-2009 Demographic and Health Survey",
-                "Kenya 2003 Demographic and Health Survey",
-                "Kenya 2014 Demographic and Health Survey",
-                "Kenya 2015 Malaria Indicators Survey",
-                "Kenya 2020 Malaria Indicators Survey",
-                "Kenya 2016 PMA2020 Round 5",
+                "Senegal 2015 Demographic and Health Survey",
+                "Senegal 2005 Demographic and Health Survey",
+                "Senegal 2006 Malaria Indicators Survey",
+                "Senegal 2008-2009 Malaria Indicators Survey",
+                "Senegal 2010-2011 Enquête Démographique et de Santé à Indicateurs Multiples",
+                "Senegal 2012-2013 Enquête Démographique et de Santé Continue",
+                "Senegal 2014 Demographic and Health Survey",
+                "Senegal 2016 Demographic and Health Survey",
+                "Senegal 2017 Demographic and Health Survey",
+                "Senegal 2018 Demographic and Health Survey",
+                "Senegal 2019 Demographic and Health Survey",
+                "Senegal 2002 Census",
+                "Senegal 2006 Malaria Indicators Survey (MIS)",
+                "Senegal 2008-2009 Malaria Indicators Survey (MIS)",
+                "Senegal 2017 Demographic and Health Survey (DHS)",
                 ""
               ]
             }
@@ -48,17 +56,6 @@
               "enum": [
                 "10 to 14 years old",
                 "15 to 19 years old",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Registration UNSD & WPP2019",
-                "Kenya 2020 Malaria Indicators Survey",
                 ""
               ]
             }

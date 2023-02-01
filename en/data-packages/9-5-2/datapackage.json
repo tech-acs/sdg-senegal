@@ -16,16 +16,41 @@
             "title": "Year"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
                 "Partial data",
                 "Break in series with previous year for which data are available",
+                "Excluding Business enterprise",
                 ""
               ]
             },
             "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNESCO Institute for Statistics.  Data extracted on 15 September 2022.",
+                "Source: Regional Publication Data extracted on 15 September 2022.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Value",

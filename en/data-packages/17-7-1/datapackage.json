@@ -22,7 +22,6 @@
               "enum": [
                 "Amount of tracked exported Environmentally Sound Technologies [17.7.1]",
                 "Amount of tracked imported Environmentally Sound Technologies [17.7.1]",
-                "Amount of tracked re-exported Environmentally Sound Technologies [17.7.1]",
                 ""
               ]
             },

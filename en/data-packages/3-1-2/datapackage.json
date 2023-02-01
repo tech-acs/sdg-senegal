@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Definition includes other cadres that is not in alignment with the standard definition",
                 "Cadres included align with the standard definition of: Doctor, nurse and/or midwife",
+                "Definition includes other cadres that is not in alignment with the standard definition",
                 ""
               ]
             },
@@ -32,11 +32,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenya Multiple Indicator Cluster Survey 2000 Preliminary Report. Central Bureau Of Statistics, Ministry Of Finance And Planning [Kenya], United Nations Children's Fund (UNICEF); 2000.",
-                "Central Bureau of Statistics (CBS) [Kenya], Ministry of Health (MOH) [Kenya], ORC Macro. Kenya Demographic and Health Survey 2003. Calverton, Maryland: CBS, MOH, ORC Macro; 2004.",
-                "Kenya National Bureau of Statistics (KNBS), ICF Macro. Kenya Demographic and Health Survey 2008-09. Calverton, Maryland: KNBS, ICF Macro; 2010.",
-                "Kenya National Bureau of Statistics, Ministry of Health, National AIDS Control Council, Kenya Medical Research Institute, National Council for Population and Development, Nairobi, Kenya, The DHS Program. Kenya Demographic and Health Survey 2014. Rockville, Maryland, USA: ICF International; 2015.",
-                "2015/16 Kenya Integrated Household Budget Survey (KIHBS), Kenya National Bureau of Statistics",
+                "Rapport de l'Enquête sur les Objectifs de la Fin de Decennie sur l'Enfance (MICS-II-2000). Sénégal: Gouvernement du Sénégal, Fonds des Nations Unies pour l'Enfance (UNICEF); 2000 (in French).",
+                "Rapport de Synthèse de la Deuxième Enquête Sénégalaise Auprès des Ménagés (ESAM-II). Sénégal: Ministère de l'Economie et des Finances; 2004 (in French).",
+                "Ndiaye S, Ayad M (Centre de Recherche pour le Développement Humain [Sénégal], ORC Macro). Enquête Démographique et de Santé au Sénégal 2005. Calverton, Maryland, USA: Centre de Recherche pour le Développement Humain [Sénégal], ORC Macro; 2006 (in French).",
+                "Agence Nationale de la Statistique et de la Démographie (ANSD) [Sénégal], ICF International. Enquête Démographique et de Santé à Indicateurs Multiples au Sénégal (EDS-MICS) 2010-2011. Calverton, Maryland, USA: ANSD, ICF International; 2012 (in French).",
+                "Agence Nationale de la Statistique et de la Démographie (ANSD) [Sénégal], ICF International. Enquête Démographique et de Santé Continue (EDS-Continue 2012-2013). Calverton, Maryland, USA: ANSD, ICF International; 2013 (in French).",
+                "Agence Nationale de la Statistique et de la Démographie (ANSD) [Sénégal], ICF International. Sénégal : Enquête Démographique et de Santé Continue (EDS-Continue 2014). Rockville, Maryland, USA : ANSD, ICF International; 2015 (in French).",
+                "Agence Nationale de la Statistique et de la Démographie (ANSD) [Sénégal], ICF. Sénégal: Enquête Démographique et de Santé Continue 2015 (EDS-Continue). Rockville, Maryland, USA : ANSD, ICF; 2016 (in French).",
+                "Agence Nationale de la Statistique et de la Démographie (ANSD) [Sénégal], ICF. Sénégal: Enquête Démographique et de Santé Continue (EDS-Continue) 2016. Rockville, Maryland, USA: ANSD, ICF; 2017 (in French).",
+                "Sénégal: Enquête Démographique et de Santé Continue (EDS-Continue) 2017. Rockville, Maryland, USA: Agence Nationale de la Statistique et de la Démographie (ANSD), ICF;  2018 (in French).",
+                "Sénégal: Enquête Démographique et de Santé Continue (EDS-Continue) 2018. Rockville, Maryland, USA: Agence Nationale de la Statistique et de la Démographie (ANSD), ICF;  2019 (in French).",
+                "Sénégal: Enquête Démographique et de Santé Continue (EDS-Continue) 2019.  Rockville, Maryland, USA: Agence Nationale de la Statistique et de la Démographie (ANSD), ICF;  2020 (in French).",
                 ""
               ]
             },

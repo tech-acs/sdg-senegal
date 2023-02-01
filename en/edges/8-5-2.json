@@ -1,1 +1,1 @@
-{"From":["Age","SOURCE_DETAIL","Age"],"To":["COMMENT_OBS","Age","Sex"]}
+{"From":["OBS_STATUS","COMMENT_OBS","Source details","SOURCE_DETAIL","SDG Series","Source details","Source details"],"To":["SOURCE_DETAIL","Disability status","COMMENT_OBS","SDG Series","Source details","Sex","Age"]}

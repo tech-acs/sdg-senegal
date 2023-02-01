@@ -1,1 +1,3 @@
-Year,Value
+Year,Income or wealth quantile,Value
+2011,,0.27
+2011,Bottom 40%,-0.28

@@ -1,31 +1,104 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,Sex,Age,Value
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,,15 years old and over,10.0
-2009,,Source: PC - Population Census,,15 years old and over,9.6
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,,15 years old and over,2.8
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,,15 years old and over,5.0
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,,25 years old and over,6.9
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,,25 years old and over,1.6
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,,25 years old and over,3.4
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,,15 to 24 years old,19.7
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,,15 to 24 years old,7.4
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,,15 to 24 years old,12.9
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,Female,15 years old and over,10.1
-2009,,Source: PC - Population Census,Female,15 years old and over,9.4
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Female,15 years old and over,2.9
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Female,15 years old and over,5.3
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,Female,25 years old and over,6.9
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Female,25 years old and over,1.8
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Female,25 years old and over,3.5
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,Female,15 to 24 years old,20.6
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Female,15 to 24 years old,7.4
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Female,15 to 24 years old,13.8
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,Male,15 years old and over,9.8
-2009,,Source: PC - Population Census,Male,15 years old and over,9.9
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Male,15 years old and over,2.6
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Male,15 years old and over,4.8
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,Male,25 years old and over,6.8
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Male,25 years old and over,1.3
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Male,25 years old and over,3.2
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Source: HIES - Household Budget Survey,Male,15 to 24 years old,18.9
-2016,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Male,15 to 24 years old,7.3
-2019,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Household Budget Survey,Male,15 to 24 years old,12.0
+Year,OBS_STATUS,COMMENT_OBS,SOURCE_DETAIL,SDG Series,Sex,Age,Disability status,Source details,Value
+2002,A,Age coverage - minimum age: 10 years old,Source: HS - Household Survey,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,5.7
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,10.0
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,10.4
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,6.8
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,4.5
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,4.1
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,3.6
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 years old and over,,Source: LFS - National Employment Survey,2.9
+2002,A,Age coverage - minimum age: 10 years old,Source: HS - Household Survey,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,4.3
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,8.1
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,9.6
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,6.4
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,3.9
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,3.7
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,3.1
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,25 years old and over,,Source: LFS - National Employment Survey,2.6
+2002,A,Age coverage - minimum age: 10 years old,Source: HS - Household Survey,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,8.6
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,14.8
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,12.7
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,8.1
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,6.4
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,5.8
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,6.0
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],,15 to 24 years old,,Source: LFS - National Employment Survey,4.1
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Female,15 years old and over,,Source: LFS - National Employment Survey,13.6
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Female,15 years old and over,,Source: LFS - National Employment Survey,13.4
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 years old and over,,Source: LFS - National Employment Survey,7.3
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 years old and over,,Source: LFS - National Employment Survey,4.8
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 years old and over,,Source: LFS - National Employment Survey,3.6
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],Female,15 years old and over,,Source: LFS - National Employment Survey,4.3
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 years old and over,,Source: LFS - National Employment Survey,3.1
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Female,25 years old and over,,Source: LFS - National Employment Survey,11.2
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Female,25 years old and over,,Source: LFS - National Employment Survey,11.7
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,25 years old and over,,Source: LFS - National Employment Survey,6.8
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,25 years old and over,,Source: LFS - National Employment Survey,4.2
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,25 years old and over,,Source: LFS - National Employment Survey,3.4
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],Female,25 years old and over,,Source: LFS - National Employment Survey,3.6
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,25 years old and over,,Source: LFS - National Employment Survey,2.3
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Female,15 to 24 years old,,Source: LFS - National Employment Survey,20.1
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Female,15 to 24 years old,,Source: LFS - National Employment Survey,19.0
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 to 24 years old,,Source: LFS - National Employment Survey,8.9
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 to 24 years old,,Source: LFS - National Employment Survey,6.7
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 to 24 years old,,Source: LFS - National Employment Survey,4.9
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],Female,15 to 24 years old,,Source: LFS - National Employment Survey,8.3
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Female,15 to 24 years old,,Source: LFS - National Employment Survey,6.7
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Male,15 years old and over,,Source: LFS - National Employment Survey,7.9
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Male,15 years old and over,,Source: LFS - National Employment Survey,7.9
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 years old and over,,Source: LFS - National Employment Survey,6.4
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 years old and over,,Source: LFS - National Employment Survey,4.2
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 years old and over,,Source: LFS - National Employment Survey,4.4
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],Male,15 years old and over,,Source: LFS - National Employment Survey,3.0
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 years old and over,,Source: LFS - National Employment Survey,2.8
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Male,25 years old and over,,Source: LFS - National Employment Survey,6.3
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Male,25 years old and over,,Source: LFS - National Employment Survey,7.8
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,25 years old and over,,Source: LFS - National Employment Survey,6.2
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,25 years old and over,,Source: LFS - National Employment Survey,3.6
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,25 years old and over,,Source: LFS - National Employment Survey,3.9
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],Male,25 years old and over,,Source: LFS - National Employment Survey,2.6
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,25 years old and over,,Source: LFS - National Employment Survey,2.7
+2006,A,,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Male,15 to 24 years old,,Source: LFS - National Employment Survey,11.9
+2011,A,Data reference period: May,Source: HS - Survey To Monitor Poverty,Unemployment rate [8.5.2],Male,15 to 24 years old,,Source: LFS - National Employment Survey,8.3
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 to 24 years old,,Source: LFS - National Employment Survey,7.4
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 to 24 years old,,Source: LFS - National Employment Survey,6.2
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 to 24 years old,,Source: LFS - National Employment Survey,6.5
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,Unemployment rate [8.5.2],Male,15 to 24 years old,,Source: LFS - National Employment Survey,4.7
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,Unemployment rate [8.5.2],Male,15 to 24 years old,,Source: LFS - National Employment Survey,2.9
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,,Source: LFS - National Employment Survey,6.8
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,,Source: LFS - National Employment Survey,4.5
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,,Source: LFS - National Employment Survey,4.1
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",,,,Source: LFS - National Employment Survey,3.6
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,,Source: LFS - National Employment Survey,2.9
+2015,U,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,Persons with disability,Source: HIES - Harmonized Survey on Household Living Conditions,6.5
+2016,U,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,Persons with disability,Source: HIES - Harmonized Survey on Household Living Conditions,2.1
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",,,Persons with disability,Source: HIES - Harmonized Survey on Household Living Conditions,2.6
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,Persons without disability,Source: LFS - National Employment Survey,6.8
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,Persons without disability,Source: LFS - National Employment Survey,4.5
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,Persons without disability,Source: LFS - National Employment Survey,4.1
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",,,Persons without disability,Source: LFS - National Employment Survey,3.7
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",,,Persons without disability,Source: LFS - National Employment Survey,2.9
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,,Source: LFS - National Employment Survey,7.3
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,,Source: LFS - National Employment Survey,4.8
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,,Source: LFS - National Employment Survey,3.6
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",Female,,,Source: LFS - National Employment Survey,4.3
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,,Source: LFS - National Employment Survey,3.1
+2015,U,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,Persons with disability,Source: HIES - Harmonized Survey on Household Living Conditions,5.2
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",Female,,Persons with disability,Source: HIES - Harmonized Survey on Household Living Conditions,3.2
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,Persons without disability,Source: LFS - National Employment Survey,7.3
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,Persons without disability,Source: LFS - National Employment Survey,4.8
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,Persons without disability,Source: LFS - National Employment Survey,3.7
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",Female,,Persons without disability,Source: LFS - National Employment Survey,4.5
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Female,,Persons without disability,Source: LFS - National Employment Survey,3.1
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,,Source: LFS - National Employment Survey,6.4
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,,Source: LFS - National Employment Survey,4.2
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,,Source: LFS - National Employment Survey,4.4
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",Male,,,Source: LFS - National Employment Survey,3.0
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,,Source: LFS - National Employment Survey,2.8
+2015,U,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,Persons with disability,Source: HIES - Harmonized Survey on Household Living Conditions,7.4
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",Male,,Persons with disability,Source: HIES - Harmonized Survey on Household Living Conditions,2.0
+2015,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,Persons without disability,Source: LFS - National Employment Survey,6.4
+2016,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,Persons without disability,Source: LFS - National Employment Survey,4.3
+2017,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,Persons without disability,Source: LFS - National Employment Survey,4.4
+2018,A,Repository: ILO-STATISTICS - Micro data processing,Source: HIES - Harmonized Survey on Household Living Conditions,"Unemployment rate, by disability [8.5.2]",Male,,Persons without disability,Source: LFS - National Employment Survey,3.2
+2019,A,Repository: ILO-STATISTICS - Micro data processing,Source: LFS - National Employment Survey,"Unemployment rate, by disability [8.5.2]",Male,,Persons without disability,Source: LFS - National Employment Survey,2.8

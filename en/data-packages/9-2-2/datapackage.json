@@ -20,23 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KEN - HS - Economic Survey",
-                "KEN - HIES - Household Budget Survey",
+                "SEN - LFS - National Employment Survey",
+                "SEN - HIES - Harmonized Survey on Household Living Conditions",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Repository: ILO-STATISTICS - Micro data processing",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

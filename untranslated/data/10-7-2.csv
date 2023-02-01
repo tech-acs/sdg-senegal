@@ -1,8 +1,15 @@
-Year,Composite breakdown,Value
-2019,,3
-2019,Policy Domain 1. Migrant rights,3
-2019,Policy Domain 2. Whole-of-government/ Evidence-based policies,4
-2019,Policy Domain 3. Cooperation and partnerships,4
-2019,Policy Domain 4. Socioeconomic well-being,4
-2019,Policy Domain 5. Mobility dimensions of crises,4
-2019,"Policy Domain 6. Safe, orderly and regular migration",4
+Year,Composite breakdown,COMMENT_OBS,Observation-level footnotes,Value
+2019,,,,3
+2021,,,,2
+2019,Policy Domain 1. Migrant rights,,,4
+2021,Policy Domain 1. Migrant rights,,,2
+2019,Policy Domain 2. Whole-of-government/ Evidence-based policies,Item non-response for domain 2 of SDG indicator 10.7.2 is 10 per cent or more.,Item non-response for domain 2 of SDG indicator 10.7.2 is 10 per cent or more.,2
+2021,Policy Domain 2. Whole-of-government/ Evidence-based policies,,Item non-response for domain 2 of SDG indicator 10.7.2 is 10 per cent or more.,4
+2019,Policy Domain 3. Cooperation and partnerships,,,4
+2021,Policy Domain 3. Cooperation and partnerships,,,2
+2019,Policy Domain 4. Socioeconomic well-being,,,4
+2021,Policy Domain 4. Socioeconomic well-being,,,3
+2019,Policy Domain 5. Mobility dimensions of crises,,,4
+2021,Policy Domain 5. Mobility dimensions of crises,,,2
+2019,"Policy Domain 6. Safe, orderly and regular migration",Item non-response for domain 6 of SDG indicator 10.7.2 is 10 per cent or more.,Item non-response for domain 6 of SDG indicator 10.7.2 is 10 per cent or more.,3
+2021,"Policy Domain 6. Safe, orderly and regular migration",,Item non-response for domain 6 of SDG indicator 10.7.2 is 10 per cent or more.,4

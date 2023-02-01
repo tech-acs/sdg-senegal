@@ -31,12 +31,9 @@
             "constraints": {
               "enum": [
                 "Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",
-                "Communications Commission of Kenya (CCK).",
-                "Communications Commission of Kenya",
-                "CCK.",
-                "Communications Authority  of Kenya",
-                "COMMUNICATIONS AUTHORITY OF KENYA",
-                "Communications Commission of Kenya-ITU1",
+                "Agence de Régulation des Télécommunications et des Postes (ARTP)",
+                "Autorité de Régulation des Télécommunications et des Postes (ARTP)",
+                "ARTP",
                 ""
               ]
             }
@@ -92,24 +89,7 @@
             "constraints": {
               "enum": [
                 "Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",
-                "Communications Authority  of Kenya",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                "Decline was due to subscribers switching to wireless technologies.",
-                "Increased fibre connections during the period",
-                "There has been increased demand for higher broadband speeds",
-                "The increase is as a result of increased roll out of fibre in the country",
-                "*Data is collected for speeds = or above 2Mbps",
-                "Obs_Value = 0;  included in i4213_2to10",
-                "this speeds are already covered under the indicator above and the one below",
+                "ARTP",
                 ""
               ]
             }
@@ -120,10 +100,21 @@
             "constraints": {
               "enum": [
                 "Obs_Value = 0;  ",
-                "Increased fibre connections during the period",
-                "There has been increased demand for higher broadband speeds",
-                "*Data is collected for speeds = or above 2Mbps",
-                "this speeds are already covered under the indicator above and the one below",
+                "c'est égal à 2 Mbit/s",
+                "c'est égal à 10 Mbit/s",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                "c'est supérieur ou égal à 512 Mbit/s et inférieur à 2 Mbit/s",
+                "c'est égal à 2 Mbit/s",
+                "c'est égal à 10 Mbit/s",
                 ""
               ]
             }

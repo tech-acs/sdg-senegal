@@ -1,22 +1,22 @@
-Year,NATURE,SOURCE_DETAIL,Value
-2000,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",0.31806
-2001,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",0.61978
-2002,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",1.20777
-2003,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",2.9419
-2004,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",3.02353
-2005,E,"Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",3.1019
-2006,E,ITU estimate.,3.6
-2007,E,ITU estimate.,4.4
-2008,E,ITU estimate.,5.2
-2009,C,Kenya National Bureau of Statistics,6.1
-2010,C,National Bureau of Statistics and Communications Commission of Kenya.,7.2
-2011,E,ITU estimate.,8.8
-2012,E,ITU estimate.,10.5
-2013,E,ITU estimate.,13.0
-2014,E,ITU estimate.,16.5
-2015,C,KENYA NATIONAL BUREAU OF STATISTICS,16.58785
-2016,E,ITU,16.6
-2017,E,ITU estimate.,17.8271
-2018,E,ITU estimate.,19.5
-2019,C,Kenya National Bureau of Statistics,22.56512
-2020,E,ITU estimate.,29.5
+Year,NATURE,SOURCE_DETAIL,COMMENT_OBS,Value
+2000,C,Société Nationale des Télécommunications du Sénégal (SONATEL).,,0.40397
+2001,C,Société Nationale des Télécommunications du Sénégal (SONATEL).,,0.98379
+2002,C,Société Nationale des Télécommunications du Sénégal (SONATEL).,,1.00645
+2003,C,Société Nationale des Télécommunications du Sénégal (SONATEL).,,2.10144
+2004,C,Agence de Régulation des Télécommunications.,,4.38602
+2005,C,Agence de Régulation des Télécommunications.,,4.78668
+2006,C,Agence de Régulation des Télécommunications.,,5.61174
+2007,E,ITU estimate.,,6.89
+2008,E,ITU estimate.,,7.12
+2009,E,ITU estimate.,Refers to total population. Survey result: 14.5% for population age 12+.,7.5
+2010,E,ITU estimate.,Refers to total population. Survey result: 16% for population age 12+.,8.0
+2011,E,ITU estimate.,Refers to total population. Country estimates 17.5% for population age 12+.,9.8
+2012,E,ITU estimate.,Refers to total population.,10.8
+2013,E,ITU estimate.,Refers to total population.,13.1
+2014,E,ITU estimate.,Refers to total population.,17.7
+2015,E,ITU estimate.,,21.7
+2016,E,ITU Estimate.,,25.66477
+2017,E,ITU estimate.,,29.64312
+2018,E,ITU estimate.,Estimated based on DHS 2018,35.3
+2019,E,ITU estimate.,Estimated based on DHS 2019,39.5
+2020,E,ITU estimate.,,42.6

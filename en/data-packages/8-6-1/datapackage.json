@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised",
-                "Repository: ILO-STATISTICS - Micro data processing",
+                "Source: LFS - National Employment Survey",
+                "Source: HIES - Harmonized Survey on Household Living Conditions",
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Sex",

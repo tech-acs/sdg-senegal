@@ -30,11 +30,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  Out of 32 local breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
-                "Obs_Value = 0;  Out of 56 transboundary breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Obs_Value = 0;  Out of 20 local breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Obs_Value = 0;  Out of 36 transboundary breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
                 "Estimate based on the acquisition date of each conserved accession as reported in 2014.",
                 "Estimate based on 2016 report.",
-                "Estimate based on 2019 report.",
+                "Estimate based on 2018 report.",
                 ""
               ]
             }
@@ -68,9 +68,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  Out of 32 local breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
-                "Obs_Value = 0;  Out of 56 transboundary breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
-                "Estimate based on 2019 report.",
+                "Obs_Value = 0;  Out of 20 local breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Obs_Value = 0;  Out of 36 transboundary breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Estimate based on 2018 report.",
                 ""
               ]
             }

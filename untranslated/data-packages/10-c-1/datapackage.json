@@ -68,10 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Custom code 646",
-                "Custom code 728",
-                "Custom code 800",
-                "Custom code 834",
+                "Custom code 466",
                 ""
               ]
             }
@@ -114,10 +111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rwanda",
-                "South Sudan",
-                "Uganda",
-                "United Republic of Tanzania",
+                "Mali",
                 ""
               ]
             }

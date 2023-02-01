@@ -1,5 +1,7 @@
 From,To
+Observation-level footnotes,COMMENT_OBS
 UPPER_BOUND,LOWER_BOUND
 LOWER_BOUND,SDG Series
 SDG Series,Upper bound value
+Lower bound value,Observation-level footnotes
 Upper bound value,Lower bound value

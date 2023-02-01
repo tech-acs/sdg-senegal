@@ -1,81 +1,97 @@
-Year,NATURE,Sex,Education level,Nature of data points,Value
-2006,E,,Secondary education (lower and upper secondary education),Estimated,97.78745
-2007,E,,Secondary education (lower and upper secondary education),Estimated,95.03996
-2008,E,,Secondary education (lower and upper secondary education),Estimated,97.19664
-2009,E,,Secondary education (lower and upper secondary education),Estimated,92.34262
-2000,E,,Pre-primary education,Country Data,41.69907
-2001,E,,Pre-primary education,Country Data,46.43482
-2002,C,,Pre-primary education,Country Data,48.00056
-2003,C,,Pre-primary education,Country Data,64.43833
-2004,C,,Pre-primary education,Country Data,70.02484
-2005,C,,Pre-primary education,Country Data,70.61733
-2006,C,,Pre-primary education,Country Data,70.57655
-2007,C,,Pre-primary education,Country Data,70.98384
-2008,C,,Pre-primary education,Country Data,74.10968
-2009,C,,Pre-primary education,Country Data,77.3378
-2012,C,,Pre-primary education,Country Data,80.61548
-2014,C,,Pre-primary education,Country Data,82.32446
-2003,C,,Primary education,Estimated,98.69199
-2004,C,,Primary education,Estimated,98.80114
-2005,E,,Primary education,Estimated,98.91325
-2006,E,,Primary education,Estimated,99.43491
-2007,E,,Primary education,Estimated,98.69642
-2008,E,,Primary education,Estimated,98.41615
-2009,E,,Primary education,Estimated,96.80731
-2004,C,,Lower secondary education,Estimated,98.634
-2005,E,,Lower secondary education,Estimated,98.91307
-2006,E,,Lower secondary education,Estimated,99.43553
-2007,E,,Lower secondary education,Estimated,98.69772
-2008,E,,Lower secondary education,Estimated,98.41596
-2009,E,,Lower secondary education,Estimated,96.80629
-2006,C,,Upper secondary education,Country Data,96.67022
-2007,C,,Upper secondary education,Country Data,92.55751
-2008,C,,Upper secondary education,Country Data,96.3293
-2009,E,,Upper secondary education,Country Data,89.30569
-2012,C,,Upper secondary education,Country Data,99.61365
-2008,E,Female,Secondary education (lower and upper secondary education),Estimated,95.9781
-2003,C,Female,Pre-primary education,Country Data,65.69131
-2004,C,Female,Pre-primary education,Country Data,72.33514
-2005,C,Female,Pre-primary education,Country Data,72.91746
-2006,C,Female,Pre-primary education,Country Data,72.91625
-2007,C,Female,Pre-primary education,Country Data,73.30272
-2008,C,Female,Pre-primary education,Country Data,74.23724
-2009,C,Female,Pre-primary education,Country Data,74.33863
-2012,C,Female,Pre-primary education,Country Data,81.70335
-2014,C,Female,Pre-primary education,Country Data,79.99955
-2003,C,Female,Primary education,Estimated,98.94422
-2004,C,Female,Primary education,Estimated,99.21044
-2005,E,Female,Primary education,Estimated,99.23641
-2007,E,Female,Primary education,Estimated,98.55967
-2008,E,Female,Primary education,Estimated,98.29093
-2004,C,Female,Lower secondary education,Estimated,98.05096
-2005,E,Female,Lower secondary education,Estimated,99.31908
-2008,E,Female,Lower secondary education,Estimated,99.25513
-2006,C,Female,Upper secondary education,Country Data,94.85503
-2007,C,Female,Upper secondary education,Country Data,93.4873
-2008,C,Female,Upper secondary education,Country Data,93.15364
-2009,E,Female,Upper secondary education,Country Data,83.35783
-2012,C,Female,Upper secondary education,Country Data,99.73952
-2008,E,Male,Secondary education (lower and upper secondary education),Estimated,98.02753
-2003,C,Male,Pre-primary education,Country Data,49.19321
-2004,C,Male,Pre-primary education,Country Data,54.05466
-2005,C,Male,Pre-primary education,Country Data,54.54747
-2006,C,Male,Pre-primary education,Country Data,54.54162
-2007,C,Male,Pre-primary education,Country Data,55.03252
-2008,C,Male,Pre-primary education,Country Data,73.24809
-2009,C,Male,Pre-primary education,Country Data,92.49232
-2012,C,Male,Pre-primary education,Country Data,75.59577
-2014,C,Male,Pre-primary education,Country Data,90.00112
-2003,C,Male,Primary education,Estimated,98.52008
-2004,C,Male,Primary education,Estimated,98.47482
-2005,E,Male,Primary education,Estimated,98.66149
-2007,E,Male,Primary education,Estimated,98.8065
-2008,E,Male,Primary education,Estimated,98.52109
-2004,C,Male,Lower secondary education,Estimated,99.09884
-2005,E,Male,Lower secondary education,Estimated,98.59721
-2008,E,Male,Lower secondary education,Estimated,97.72515
-2006,C,Male,Upper secondary education,Country Data,97.73012
-2007,C,Male,Upper secondary education,Country Data,92.04532
-2008,C,Male,Upper secondary education,Country Data,98.21559
-2009,E,Male,Upper secondary education,Country Data,92.97892
-2012,C,Male,Upper secondary education,Country Data,99.53791
+Year,NATURE,SOURCE_DETAIL,Sex,Education level,Value
+2011,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Secondary education (lower and upper secondary education),39.42585
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Secondary education (lower and upper secondary education),45.19019
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Secondary education (lower and upper secondary education),55.48466
+2014,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Secondary education (lower and upper secondary education),61.49653
+2015,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Secondary education (lower and upper secondary education),72.45545
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Secondary education (lower and upper secondary education),72.42733
+2006,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,18.24651
+2008,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,12.81549
+2009,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,14.00763
+2010,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,15.09403
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,23.42179
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,25.71481
+2014,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,25.74617
+2015,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,26.09581
+2018,C,RAPPORT naTIOnaL SUR LA SITUATION DE L'EDUCATION 2018 (https://education.sn/sites/default/files/2019-08/RNSE%20_2018%20%20-DPRE_DSP_BSS-%20vf%20juillet%202019.pdf); Data extracted on 01 April 2022.,,Pre-primary education,37.811
+2019,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,37.79777
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Pre-primary education,37.35822
+2003,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,55.37906
+2004,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,50.84206
+2005,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,45.69771
+2006,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,49.69535
+2007,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,46.03869
+2008,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,46.18381
+2009,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,42.56055
+2010,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,47.85285
+2011,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,63.10219
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,64.72177
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,72.37909
+2014,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,69.96822
+2015,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,68.33982
+2019,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,75.33952
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Primary education,75.0538
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Lower secondary education,81.33643
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,,Upper secondary education,66.99987
+2011,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Secondary education (lower and upper secondary education),48.68488
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Secondary education (lower and upper secondary education),65.75
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Secondary education (lower and upper secondary education),58.91543
+2014,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Secondary education (lower and upper secondary education),69.11297
+2015,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Secondary education (lower and upper secondary education),84.32361
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Secondary education (lower and upper secondary education),77.79847
+2008,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,10.6287
+2009,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,12.3224
+2010,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,13.32485
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,21.46186
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,23.25076
+2014,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,23.59216
+2015,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,23.95457
+2019,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,34.32504
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Pre-primary education,34.47886
+2003,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,55.85377
+2004,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,49.43656
+2005,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,41.67527
+2007,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,38.07079
+2008,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,37.98171
+2009,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,34.11681
+2010,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,40.19462
+2011,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,61.26459
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,61.78326
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,68.14164
+2014,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,65.78296
+2015,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,65.04538
+2019,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,72.08117
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Primary education,71.04637
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Lower secondary education,86.66495
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Female,Upper secondary education,71.21039
+2011,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Secondary education (lower and upper secondary education),37.29713
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Secondary education (lower and upper secondary education),40.0617
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Secondary education (lower and upper secondary education),54.7858
+2014,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Secondary education (lower and upper secondary education),59.65825
+2015,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Secondary education (lower and upper secondary education),68.05876
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Secondary education (lower and upper secondary education),71.26147
+2008,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,20.20972
+2009,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,19.8741
+2010,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,21.52778
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,29.46245
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,33.55111
+2014,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,32.35915
+2015,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,33.16971
+2019,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,49.54921
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Pre-primary education,46.75848
+2003,E,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,55.2357
+2004,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,51.27545
+2005,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,47.04907
+2007,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,49.13298
+2008,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,49.50194
+2009,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,46.11442
+2010,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,51.23019
+2011,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,63.93293
+2012,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,66.09335
+2013,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,74.37539
+2014,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,71.97712
+2015,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,69.91626
+2019,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,76.86571
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Primary education,76.9598
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Lower secondary education,79.99742
+2020,C,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Male,Upper secondary education,66.16994

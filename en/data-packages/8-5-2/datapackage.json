@@ -16,11 +16,24 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "U",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised",
+                "Age coverage - minimum age: 10 years old",
+                "Data reference period: May",
                 "Repository: ILO-STATISTICS - Micro data processing",
                 ""
               ]
@@ -32,12 +45,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Source: HIES - Household Budget Survey",
-                "Source: PC - Population Census",
+                "Source: HS - Household Survey",
+                "Source: HS - Survey To Monitor Poverty",
+                "Source: LFS - National Employment Survey",
+                "Source: HIES - Harmonized Survey on Household Living Conditions",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unemployment rate [8.5.2]",
+                "Unemployment rate, by disability [8.5.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Sex",
@@ -63,6 +90,30 @@
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with disability",
+                "Persons without disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Source: LFS - National Employment Survey",
+                "Source: HIES - Harmonized Survey on Household Living Conditions",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

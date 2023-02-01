@@ -20,10 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Based on data from WMS-I. Estimated from grouped consumption data. ",
-                "Based on data from WMS-II. Estimated from unit-record consumption data. ",
-                "Based on data from WMS-III. Estimated from unit-record consumption data. ",
-                "Based on data from IHBS. Estimated from unit-record consumption data. ",
+                "Based on data from EP. Estimated from grouped consumption data. ",
+                "Based on data from ESAM. Estimated from grouped consumption data. ",
+                "Based on data from ESAM-II. Estimated from unit-record consumption data. ",
+                "Based on data from ESPS-I. Estimated from unit-record consumption data. ",
+                "Based on data from ESPS-II. Estimated from unit-record consumption data. ",
+                "Based on data from EHCVM. Estimated from unit-record consumption data. ",
                 ""
               ]
             },

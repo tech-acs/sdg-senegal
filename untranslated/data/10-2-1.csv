@@ -1,6 +1,7 @@
 Year,COMMENT_OBS,Value
-1992,Based on data from WMS-I. Estimated from grouped consumption data. ,22
-1994,Based on data from WMS-II. Estimated from unit-record consumption data. ,18
-1997,Based on data from WMS-III. Estimated from unit-record consumption data. ,16
-2005,Based on data from IHBS. Estimated from unit-record consumption data. ,17
-2015,Based on data from IHBS. Estimated from unit-record consumption data. ,14
+1991,Based on data from EP. Estimated from grouped consumption data. ,24
+1994,Based on data from ESAM. Estimated from grouped consumption data. ,12
+2001,Based on data from ESAM-II. Estimated from unit-record consumption data. ,11
+2005,Based on data from ESPS-I. Estimated from unit-record consumption data. ,14
+2011,Based on data from ESPS-II. Estimated from unit-record consumption data. ,15
+2018,Based on data from EHCVM. Estimated from unit-record consumption data. ,11

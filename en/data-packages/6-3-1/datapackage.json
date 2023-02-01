@@ -12,8 +12,93 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CA",
+                "E",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD",
+                "WHO 2020",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total wastewater generated (million m3/year) [6.3.1]",
+                "Total wastewater treated (million m3/year) [6.3.1]",
+                "Proportion of wastewater treated [6.3.1]",
+                "Proportion of safely treated domestic wastewater flows [6.3.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Activities by households",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million of cubic metres per annum",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Adjusted",
+                "Estimated",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD",
+                "WHO 2020",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

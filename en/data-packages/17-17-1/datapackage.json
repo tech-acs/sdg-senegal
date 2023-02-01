@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year",
+                "Obs_Value = 0;  ",
                 ""
               ]
             },
@@ -49,6 +50,18 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                "Obs_Value = 0.0000;  Zero means there is no PPI investment captured in the year",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "BASE_PER",

@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Unit of measure",
             "type": "string",
             "constraints": {

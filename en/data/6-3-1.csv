@@ -1,1 +1,6 @@
-Year,Value
+Year,NATURE,SOURCE_DETAIL,SDG Series,Economic activity,Unit of measure,Nature of data points,Source details,Value
+2015,CA,UNSD,Total wastewater generated (million m3/year) [6.3.1],,Million of cubic metres per annum,Country Adjusted,UNSD,23.71697
+2015,CA,UNSD,Total wastewater generated (million m3/year) [6.3.1],Activities by households,Million of cubic metres per annum,Country Adjusted,UNSD,23.71697
+2015,CA,UNSD,Total wastewater treated (million m3/year) [6.3.1],,Million of cubic metres per annum,Country Adjusted,UNSD,15.15411
+2015,CA,UNSD,Proportion of wastewater treated [6.3.1],,Percent,Country Adjusted,UNSD,63.89563
+2020,E,WHO 2020,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,Estimated,WHO 2020,14.16667

@@ -21,8 +21,10 @@
             "constraints": {
               "enum": [
                 "Abnormally high defined as IFPA>=1; Moderately high defined as 0.5=<IFPA< 1; Twelve month average of monthly price anomalies",
-                "Obs_Value = 0;  Nairobi, Maize, Wholesale price",
-                "Nairobi, Maize, Wholesale price",
+                "Dakar, Rice (imported), Retail price",
+                "Obs_Value = 0;  Dakar, Rice (imported), Retail price",
+                "Dakar, Sorghum, Retail price",
+                "Dakar, Millet, Retail price",
                 ""
               ]
             },
@@ -57,7 +59,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Maize",
+                "Rice",
+                "Sorghum",
+                "Millet",
                 ""
               ]
             },
@@ -81,7 +85,9 @@
             "constraints": {
               "enum": [
                 "Obs_Value = NaN;  NaN = A figure was not provided",
-                "Nairobi, Maize, Wholesale price",
+                "Obs_Value = 0;  Dakar, Rice (imported), Retail price",
+                "Dakar, Sorghum, Retail price",
+                "Dakar, Millet, Retail price",
                 ""
               ]
             },

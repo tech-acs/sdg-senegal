@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised",
-                "Repository: ILO-STATISTICS - Micro data processing",
+                "A",
+                "U",
                 ""
               ]
             }
@@ -35,6 +35,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",

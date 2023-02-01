@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The individual is listed as an owner of the parcel if she/he has a legal document under her/his name in the households where at least one member has cultivated land.",
+                "Self-reported ownership is used for the estimates",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
@@ -32,6 +43,17 @@
               "enum": [
                 "Female",
                 "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The individual is listed as an owner of the parcel if she/he has a legal document under her/his name in the households where at least one member has cultivated land.",
+                "Self-reported ownership is used for the estimates",
                 ""
               ]
             }

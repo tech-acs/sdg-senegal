@@ -32,11 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = 0;  Out of 10 local breeds, 70% are of unknown status",
-                "Obs_Value = 0;  Out of 31 local breeds, 81% are of unknown status",
-                "Obs_Value = 0;  Out of 32 local breeds, 75% are of unknown status",
-                "Obs_Value = 0;  Out of 32 local breeds, 94% are of unknown status",
-                "Obs_Value = 0;  Out of 32 local breeds, 97% are of unknown status",
+                "Obs_Value = 0;  Out of 4 local breeds, 25% are of unknown status",
+                "Obs_Value = 0;  Out of 5 local breeds, 0% are of unknown status",
+                "Obs_Value = 0;  Out of 14 local breeds, 50% are of unknown status",
+                "Obs_Value = 0;  Out of 15 local breeds, 47% are of unknown status",
+                "Obs_Value = 0;  Out of 16 local breeds, 44% are of unknown status",
+                "Obs_Value = 0;  Out of 16 local breeds, 50% are of unknown status",
+                "Obs_Value = 0;  Out of 16 local breeds, 56% are of unknown status",
+                "Out of 19 local breeds, 42% are of unknown status",
+                "Out of 19 local breeds, 47% are of unknown status",
                 ""
               ]
             },

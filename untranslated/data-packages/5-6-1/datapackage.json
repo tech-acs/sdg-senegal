@@ -15,6 +15,19 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DHS 2011. UNFPA Global Database, 2022.",
+                "DHS Continuous 2015. UNFPA Global Database, 2022.",
+                "DHS Continuous 2016. UNFPA Global Database, 2022.",
+                "DHS Continuous 2017. UNFPA Global Database, 2022.",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {

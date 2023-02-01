@@ -20,8 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 3. Grade 6",
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 3. Grade 2",
                 "NA",
-                "National Learning Assessment (NLA): National Assessment Systems for Monitoring Learner Achievement (NASMLA); Grade 3; Minimum proficiency level: Level 3",
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 4. Grade 6",
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 2. Grade 2",
                 ""
               ]
             },
@@ -45,6 +48,7 @@
             "constraints": {
               "enum": [
                 "Primary education",
+                "Lower secondary education",
                 "Some primary education, grades 2 or 3",
                 ""
               ]
@@ -69,7 +73,8 @@
             "constraints": {
               "enum": [
                 "NA",
-                "National Learning Assessment (NLA): National Assessment Systems for Monitoring Learner Achievement (NASMLA); Grade 3; Minimum proficiency level: Level 3",
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 2. Grade 2",
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 3. Grade 6",
                 ""
               ]
             },

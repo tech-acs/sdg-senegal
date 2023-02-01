@@ -134,7 +134,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/sdg-senegal/assets/css/style.css?v=20230201123843">
+        <link rel="stylesheet" href="/sdg-senegal/assets/css/style.css?v=20230201125337">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -401,7 +401,7 @@ data-event-label="high"
   data-graphtargetlines="null"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;UPPER_BOUND&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;272.561&quot;,&quot;296.716&quot;,&quot;276.618&quot;,&quot;261.155&quot;,&quot;225.423&quot;,&quot;180.884&quot;,&quot;140.37&quot;,&quot;107.552&quot;,&quot;89.4077&quot;,&quot;84.2493&quot;,&quot;85.4695&quot;,&quot;87.3639&quot;,&quot;92.0246&quot;,&quot;96.2173&quot;,&quot;94.6144&quot;,&quot;91.7139&quot;,&quot;90.7048&quot;,&quot;91.021&quot;,&quot;90.2655&quot;,&quot;87.3645&quot;,&quot;82.7941&quot;,&quot;&quot;]},&quot;title&quot;:&quot;UPPER_BOUND&quot;},{&quot;name&quot;:&quot;LOWER_BOUND&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;170.246&quot;,&quot;194.532&quot;,&quot;179.18&quot;,&quot;165.286&quot;,&quot;136.956&quot;,&quot;100.644&quot;,&quot;74.3226&quot;,&quot;57.3499&quot;,&quot;47.7677&quot;,&quot;45.7912&quot;,&quot;47.1532&quot;,&quot;48.3988&quot;,&quot;50.2394&quot;,&quot;51.8381&quot;,&quot;51.2993&quot;,&quot;50.2097&quot;,&quot;46.0247&quot;,&quot;41.0639&quot;,&quot;37.421&quot;,&quot;34.0586&quot;,&quot;29.0802&quot;,&quot;&quot;]},&quot;title&quot;:&quot;LOWER_BOUND&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;NATURE&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;E&quot;,&quot;CA&quot;,&quot;&quot;]},&quot;title&quot;:&quot;NATURE&quot;},{&quot;name&quot;:&quot;UPPER_BOUND&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;404.521&quot;,&quot;403.842&quot;,&quot;369.225&quot;,&quot;327.061&quot;,&quot;265.387&quot;,&quot;206.97&quot;,&quot;216.076&quot;,&quot;184.397&quot;,&quot;76.1222&quot;,&quot;44.7606&quot;,&quot;80.4744&quot;,&quot;65.2262&quot;,&quot;72.3535&quot;,&quot;82.4492&quot;,&quot;50.584&quot;,&quot;94.1881&quot;,&quot;61.5947&quot;,&quot;69.2386&quot;,&quot;88.6944&quot;,&quot;55.9438&quot;,&quot;67.7308&quot;,&quot;&quot;]},&quot;title&quot;:&quot;UPPER_BOUND&quot;},{&quot;name&quot;:&quot;LOWER_BOUND&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;180.075&quot;,&quot;66.6485&quot;,&quot;49.1326&quot;,&quot;68.8345&quot;,&quot;28.5269&quot;,&quot;39.7339&quot;,&quot;38.8096&quot;,&quot;28.2235&quot;,&quot;32.9728&quot;,&quot;22.4061&quot;,&quot;42.3079&quot;,&quot;34.2836&quot;,&quot;36.7549&quot;,&quot;43.9132&quot;,&quot;28.1499&quot;,&quot;47.0947&quot;,&quot;31.2861&quot;,&quot;36.2042&quot;,&quot;45.9433&quot;,&quot;28.0255&quot;,&quot;33.8991&quot;,&quot;&quot;]},&quot;title&quot;:&quot;LOWER_BOUND&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="null"
 >
@@ -1385,12 +1385,12 @@ data-event-label="Change to indicator.sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/sdg-senegal/assets/js/sdg.js?v=20230201123843'></script>
+<script src='/sdg-senegal/assets/js/sdg.js?v=20230201125337'></script>
 
 
     
     
-    <script src="/sdg-senegal/assets/js/custom.js?v=20230201123843"></script><script>
+    <script src="/sdg-senegal/assets/js/custom.js?v=20230201125337"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>

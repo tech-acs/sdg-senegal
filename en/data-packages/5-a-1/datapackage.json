@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The individual is listed as an owner of the parcel if she/he has a legal document under her/his name in the households where at least one member has cultivated land.",
+                "Self-reported ownership is used for the estimates",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
@@ -38,6 +50,18 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The individual is listed as an owner of the parcel if she/he has a legal document under her/his name in the households where at least one member has cultivated land.",
+                "Self-reported ownership is used for the estimates",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

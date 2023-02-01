@@ -1,10 +1,16 @@
-Year,COMMENT_OBS,Sex,Value
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,,22.7
-2016,Repository: ILO-STATISTICS - Micro data processing,,13.73
-2019,Repository: ILO-STATISTICS - Micro data processing,,19.67
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Female,29.98
-2016,Repository: ILO-STATISTICS - Micro data processing,Female,18.24
-2019,Repository: ILO-STATISTICS - Micro data processing,Female,24.29
-2006,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,Male,15.36
-2016,Repository: ILO-STATISTICS - Micro data processing,Male,9.2
-2019,Repository: ILO-STATISTICS - Micro data processing,Male,14.97
+Year,SOURCE_DETAIL,Sex,Value
+2015,Source: LFS - National Employment Survey,,36.24
+2016,Source: LFS - National Employment Survey,,29.52
+2017,Source: LFS - National Employment Survey,,35.52
+2018,Source: HIES - Harmonized Survey on Household Living Conditions,,39.42
+2019,Source: LFS - National Employment Survey,,32.71
+2015,Source: LFS - National Employment Survey,Female,42.77
+2016,Source: LFS - National Employment Survey,Female,39.26
+2017,Source: LFS - National Employment Survey,Female,43.57
+2018,Source: HIES - Harmonized Survey on Household Living Conditions,Female,48.69
+2019,Source: LFS - National Employment Survey,Female,44.22
+2015,Source: LFS - National Employment Survey,Male,28.71
+2016,Source: LFS - National Employment Survey,Male,18.93
+2017,Source: LFS - National Employment Survey,Male,26.2
+2018,Source: HIES - Harmonized Survey on Household Living Conditions,Male,28.53
+2019,Source: LFS - National Employment Survey,Male,21.61

@@ -15,46 +15,28 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD/UNEP Questionnaire on Environment Statistics",
+                "UNSD / UNITAR / WESR",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Electronic waste collected, per capita (KG) [12.4.2]",
+                "Electronic waste collection rate (%) [12.4.2]",
+                "Electronic waste collected (Tonnes) [12.4.2]",
                 "Electronic waste generated, per capita (Kg) [12.4.2]",
                 "Electronic waste generated (Tonnes) [12.4.2]",
-                "Hazardous waste generated, per unit of GDP [12.4.2]",
-                "Hazardous waste generated (Tonnes) [12.4.2]",
-                "Hazardous waste generated, per capita (Kg) [12.4.2]",
-                "Hazardous waste treated and by type of treatment (Tonnes) [12.4.2]",
-                "Hazardous waste treated or disposed, rate (%) [12.4.2]",
-                "Hazardous waste treated or disposed (Tonnes) [12.4.2]",
                 "Municipal waste collected (Tonnes) [12.4.2]",
-                "Municipal waste generated (Tonnes) [12.4.2]",
                 "Total waste generation, by activity (Tonnes) [12.4.2]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waste treatment: Incineration",
-                "Waste treatment: Landfilling",
-                "Waste treatment: Other type of waste management",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Economic activity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Construction",
                 ""
               ]
             }
@@ -65,29 +47,19 @@
             "constraints": {
               "enum": [
                 "Kilograms",
-                "Metric Tons",
-                "Kilograms per constant USD",
                 "Percent",
+                "Metric Tons",
                 ""
               ]
             }
           },
           {
-            "name": "BASE_PER",
+            "name": "Source details",
             "type": "string",
             "constraints": {
               "enum": [
-                "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Base period",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2015",
+                "UNSD/UNEP Questionnaire on Environment Statistics",
+                "UNSD / UNITAR / WESR",
                 ""
               ]
             }
@@ -97,13 +69,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Source: Census of Industrial Production, 2017.",
-                "Obs_Value = 0;  ",
-                "Source: Census of Industrial Production, 2017. Excludes amount recycled.",
-                "Data is for the Capital City only, Nairobi.",
-                "Data for the Counties with the Three Cities in The Country; Nairobi, Mombasa and Kisumu",
-                "Data refers to solid waste. Source: Census of Industrial Production, 2017.",
-                "Source: Census of Industrial Production, 2017. Data refers to solid waste.",
+                "The total amount of electronic WEEE collected concerns only equipment such as computers, telephones (fixed and portable), modem printers, routers, inverters. Household WEEE such as televisions, irons, refrigerators, microwaves, etc ... are not part of it.",
+                "The total WEEE covers only computers and laptops.",
+                "The quantities of waste collected by municipal services cover only a few years and are available only for the urban community of Dakar.",
+                "At the national level, data on generation are estimated data. Thus, for a given year, the national generation of waste is estimated on the basis of 0.5kg per capita per day (figure provided by a study conducted by the Ministry of Environment) and the population provided by the National  Statistics and Demography Agency.",
                 ""
               ]
             }
@@ -113,12 +82,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Source: Census of Industrial Production, 2017.",
-                "Obs_Value = 0;  ",
-                "Source: Census of Industrial Production, 2017. Excludes amount recycled.",
-                "Data for the Counties with the Three Cities in The Country; Nairobi, Mombasa and Kisumu",
-                "Data refers to solid waste. Source: Census of Industrial Production, 2017.",
-                "Source: Census of Industrial Production, 2017. Data refers to solid waste.",
+                "The total amount of electronic WEEE collected concerns only equipment such as computers, telephones (fixed and portable), modem printers, routers, inverters. Household WEEE such as televisions, irons, refrigerators, microwaves, etc ... are not part of it.",
+                "The total WEEE covers only computers and laptops.",
+                "The quantities of waste collected by municipal services cover only a few years and are available only for the urban community of Dakar.",
+                "At the national level, data on generation are estimated data. Thus, for a given year, the national generation of waste is estimated on the basis of 0.5kg per capita per day (figure provided by a study conducted by the Ministry of Environment) and the population provided by the National  Statistics and Demography Agency.",
                 ""
               ]
             }

@@ -33,7 +33,6 @@
             "constraints": {
               "enum": [
                 "Type of renewable technology: Bioenergy",
-                "Type of renewable technology: Geothermal energy",
                 "Type of renewable technology: Hydropower",
                 "Type of renewable technology: Solar energy",
                 "Type of renewable technology: Wind energy",
@@ -41,6 +40,18 @@
               ]
             },
             "title": "Composite breakdown"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Year-end value for installed capacity (watts) and mid-year for population ",
+                "Obs_Value = 0;  Year-end value for installed capacity (watts) and mid-year for population ",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

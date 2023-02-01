@@ -31,12 +31,12 @@
             "constraints": {
               "enum": [
                 "Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)",
-                "Communication Commission of Kenya",
-                "Communications Commission of Kenya",
-                "Communications Commission of Kenya-ITU1",
-                "Communications Authority  of Kenya",
-                "COMMUNICATIONS AUTHORITY OF KENYA",
+                "ARTP Sénégal",
+                "Agence de Régulation des Télécommunications et des Postes (ARTP)",
+                "Autorité de Régulation des Télécommunications et des Postes (ARTP)",
+                "ARTP",
                 "ITU estimate",
+                "ITU estimate.",
                 ""
               ]
             }
@@ -54,24 +54,25 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Observation-level footnotes",
             "type": "string",
             "constraints": {
               "enum": [
-                "ITU estimate",
-                "2G Population coverage is 95.4",
-                "Obs_Value = 0;  ITU estimate",
+                "juin 2020",
+                "septembre 2019",
                 ""
               ]
             }
           },
           {
-            "name": "Observation-level footnotes",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "2G Population coverage is 95.4",
+                "septembre 2019",
+                "juin 2020",
                 "ITU estimate",
+                "Obs_Value = 0;  ",
                 ""
               ]
             }

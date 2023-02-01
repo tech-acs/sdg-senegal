@@ -16,42 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "35.7464",
-                "35.8038",
-                "35.815",
-                "35.8792",
-                "36.0021",
-                "36.0984",
-                "36.336",
-                ""
-              ]
-            },
-            "title": "UPPER_BOUND"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "35.7464",
-                "35.8038",
-                "35.815",
-                "35.8792",
-                "36.0021",
-                "36.0984",
-                "36.336",
-                ""
-              ]
-            },
-            "title": "LOWER_BOUND"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

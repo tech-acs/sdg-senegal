@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised",
-                "Repository: ILO-STATISTICS - Micro data processing",
+                "A",
+                "U",
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "OBS_STATUS"
           },
           {
             "name": "SDG Series",
@@ -38,6 +38,11 @@
               ]
             },
             "title": "SDG Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",

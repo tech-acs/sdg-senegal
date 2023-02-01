@@ -20,12 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "E",
                 "C",
+                "E",
                 ""
               ]
             },
             "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNESCO Institute for Statistics.  Data extracted on 01 April 2022.",
+                "RAPPORT naTIOnaL SUR LA SITUATION DE L'EDUCATION 2018 (https://education.sn/sites/default/files/2019-08/RNSE%20_2018%20%20-DPRE_DSP_BSS-%20vf%20juillet%202019.pdf); Data extracted on 01 April 2022.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Sex",
@@ -53,18 +65,6 @@
               ]
             },
             "title": "Education level"
-          },
-          {
-            "name": "Nature of data points",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated",
-                "Country Data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
           },
           {
             "name": "Value",

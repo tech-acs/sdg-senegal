@@ -1,7 +1,7 @@
 From,To
 UNIT_MULT,NATURE
-NATURE,SOURCE_DETAIL
-Source details,COMMENT_OBS
+NATURE,COMMENT_OBS
+COMMENT_OBS,SOURCE_DETAIL
 SOURCE_DETAIL,SDG Series
 SDG Series,Unit of measure
 Unit of measure,Nature of data points

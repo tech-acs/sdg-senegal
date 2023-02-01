@@ -30,6 +30,28 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Item non-response for domain 2 of SDG indicator 10.7.2 is 10 per cent or more.",
+                "Item non-response for domain 6 of SDG indicator 10.7.2 is 10 per cent or more.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Item non-response for domain 2 of SDG indicator 10.7.2 is 10 per cent or more.",
+                "Item non-response for domain 6 of SDG indicator 10.7.2 is 10 per cent or more.",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

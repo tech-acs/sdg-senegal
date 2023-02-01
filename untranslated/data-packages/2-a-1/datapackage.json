@@ -15,19 +15,41 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "FAO calculation based on UNSD national account estimates",
                 "FAO calculation based on WB national account data",
-                "IMF data. UNSD national account estimates.",
-                "FAO Questionnaire and IMF data. UNSD national account estimates.",
-                "FAO Questionnaire. UNSD national account estimates.",
-                "FAO Questionnaire. World Bank national accounts data.",
-                "IMF data.",
-                "FAO Questionnaire and IMF data.",
-                "FAO Questionnaire.",
+                "IMF data and FAO Imputation. UNSD national account estimates",
+                "IMF data and Official country publications. UNSD national account estimates.",
+                "Official country publications. UNSD national account estimates.",
+                "Official country publications. World Bank national accounts data.",
+                "IMF data and FAO Imputation.",
+                "IMF data and Official country publications.",
+                "Official country publications.",
                 ""
               ]
             }
@@ -61,8 +83,8 @@
             "constraints": {
               "enum": [
                 "FAO calculation based on WB national account data",
-                "FAO Questionnaire. World Bank national accounts data.",
-                "FAO Questionnaire.",
+                "Official country publications. World Bank national accounts data.",
+                "Official country publications.",
                 ""
               ]
             }

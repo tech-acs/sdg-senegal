@@ -22,7 +22,6 @@
               "enum": [
                 "M",
                 "E",
-                "C",
                 ""
               ]
             },
@@ -54,7 +53,6 @@
                 "Beach litter per square kilometer (Number) [14.1.1]",
                 "Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",
                 "Chlorophyll-a deviations, remote sensing  [14.1.1]",
-                "Floating plastic debris density (count per km2) [14.1.1]",
                 ""
               ]
             },
@@ -65,6 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Frequency of Chlorophyll-a concentration: Extreme",
                 "Frequency of Chlorophyll-a concentration: High",
                 "Frequency of Chlorophyll-a concentration: Moderate",
                 ""
@@ -92,7 +91,6 @@
               "enum": [
                 "Modeled",
                 "Estimated",
-                "Country Data",
                 ""
               ]
             },
@@ -117,9 +115,6 @@
             "constraints": {
               "enum": [
                 "The series has been backcasted to include territorial waters.",
-                "Data is collected from Diani, Tiwi, Shimoni, Vanga, Gazi - December 2019. ",
-                "Data is collected from the North and South coasts - May to June 2020. ",
-                "Data is collected from Kilifi, Kwale and Mombasa - February to October 2021. ",
                 ""
               ]
             },
@@ -131,7 +126,6 @@
             "constraints": {
               "enum": [
                 "The series has been backcasted to include territorial waters.",
-                "Data is collected from Kilifi, Kwale and Mombasa - February to October 2021. ",
                 ""
               ]
             },

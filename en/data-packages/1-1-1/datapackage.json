@@ -33,6 +33,7 @@
               "enum": [
                 "G",
                 "M",
+                "E",
                 ""
               ]
             },
@@ -43,11 +44,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed September 14, 2022. Based on data from WMS-I. Estimated from grouped consumption data. ",
-                "Accessed September 14, 2022. Based on data from WMS-II. Estimated from unit-record consumption data. ",
-                "Accessed September 14, 2022. Based on data from WMS-III. Estimated from unit-record consumption data. ",
-                "Accessed September 14, 2022. Based on data from IHBS. Estimated from unit-record consumption data. ",
-                "Accessed September 14, 2022. Survey name: IHBS. Uses a consumption aggregate, which is not spatially deflated.",
+                "Accessed September 14, 2022. Based on data from EP. Estimated from grouped consumption data. ",
+                "Accessed September 14, 2022. Based on data from ESAM. Estimated from grouped consumption data. ",
+                "Accessed September 14, 2022. Based on data from ESAM-II. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Based on data from ESPS-I. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Based on data from ESPS-II. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Based on data from EHCVM. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Survey name: EHCVM. Uses a consumption aggregate, which is not spatially deflated.",
                 ""
               ]
             },
@@ -145,8 +148,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed September 14, 2022. Based on data from IHBS. Estimated from unit-record consumption data. ",
-                "Accessed September 14, 2022. Survey name: IHBS. Uses a consumption aggregate, which is not spatially deflated.",
+                "Accessed September 14, 2022. Based on data from EHCVM. Estimated from unit-record consumption data. ",
+                "Accessed September 14, 2022. Survey name: EHCVM. Uses a consumption aggregate, which is not spatially deflated.",
                 ""
               ]
             },

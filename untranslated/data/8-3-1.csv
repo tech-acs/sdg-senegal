@@ -1,1 +1,40 @@
-Year,Value
+Year,SOURCE_DETAIL,Sex,Economic activity,Value
+2015,LFS - National Employment Survey,,,93.4
+2016,LFS - National Employment Survey,,,87.0
+2017,LFS - National Employment Survey,,,91.6
+2018,HIES - Harmonized Survey on Household Living Conditions,,,93.6
+2019,LFS - National Employment Survey,,,90.2
+2015,LFS - National Employment Survey,,"Agriculture, forestry and fishing",99.5
+2016,LFS - National Employment Survey,,"Agriculture, forestry and fishing",94.9
+2018,HIES - Harmonized Survey on Household Living Conditions,,"Agriculture, forestry and fishing",98.3
+2019,LFS - National Employment Survey,,"Agriculture, forestry and fishing",97.8
+2015,LFS - National Employment Survey,,Non-agriculture,90.4
+2016,LFS - National Employment Survey,,Non-agriculture,82.5
+2018,HIES - Harmonized Survey on Household Living Conditions,,Non-agriculture,92.4
+2019,LFS - National Employment Survey,,Non-agriculture,88.0
+2015,LFS - National Employment Survey,Female,,95.3
+2016,LFS - National Employment Survey,Female,,89.0
+2017,LFS - National Employment Survey,Female,,93.9
+2018,HIES - Harmonized Survey on Household Living Conditions,Female,,95.9
+2019,LFS - National Employment Survey,Female,,91.9
+2015,LFS - National Employment Survey,Female,"Agriculture, forestry and fishing",99.7
+2016,LFS - National Employment Survey,Female,"Agriculture, forestry and fishing",97.5
+2018,HIES - Harmonized Survey on Household Living Conditions,Female,"Agriculture, forestry and fishing",97.6
+2019,LFS - National Employment Survey,Female,"Agriculture, forestry and fishing",98.6
+2015,LFS - National Employment Survey,Female,Non-agriculture,93.5
+2016,LFS - National Employment Survey,Female,Non-agriculture,84.8
+2018,HIES - Harmonized Survey on Household Living Conditions,Female,Non-agriculture,95.6
+2019,LFS - National Employment Survey,Female,Non-agriculture,90.4
+2015,LFS - National Employment Survey,Male,,92.2
+2016,LFS - National Employment Survey,Male,,85.6
+2017,LFS - National Employment Survey,Male,,89.9
+2018,HIES - Harmonized Survey on Household Living Conditions,Male,,91.9
+2019,LFS - National Employment Survey,Male,,89.3
+2015,LFS - National Employment Survey,Male,"Agriculture, forestry and fishing",99.3
+2016,LFS - National Employment Survey,Male,"Agriculture, forestry and fishing",93.3
+2018,HIES - Harmonized Survey on Household Living Conditions,Male,"Agriculture, forestry and fishing",98.7
+2019,LFS - National Employment Survey,Male,"Agriculture, forestry and fishing",97.4
+2015,LFS - National Employment Survey,Male,Non-agriculture,88.2
+2016,LFS - National Employment Survey,Male,Non-agriculture,80.7
+2018,HIES - Harmonized Survey on Household Living Conditions,Male,Non-agriculture,89.8
+2019,LFS - National Employment Survey,Male,Non-agriculture,86.4

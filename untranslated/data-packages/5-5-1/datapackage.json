@@ -19,12 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data on most recent election results (2017).",
+                "Data based on most recent election results (2014) obtained by NSO from Local Government Associations.",
                 "Annual data as of 1 Feb of given year.",
                 "Data are as at 1 January of reporting year | single or lower chambers of national parliaments.",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
-                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year",
+                "Unicameral: (National Assembly), Data valid as of 1 Jan of given year",
                 ""
               ]
             }
@@ -82,10 +82,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data on most recent election results (2017).",
+                "Data based on most recent election results (2014) obtained by NSO from Local Government Associations.",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
-                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year",
+                "Unicameral: (National Assembly), Data valid as of 1 Jan of given year",
                 ""
               ]
             }

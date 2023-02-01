@@ -1,2 +1,38 @@
-Year,Value
-2016,82.62217
+Year,SOURCE_DETAIL,SDG Series,Education level,Value
+2012,Annuaire Statistique 2012 (https://education.sn/sites/default/files/2019-07/ANNUAIRE%202012.pdf); Data extracted on 01 April 2022.,"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",Primary education,19.50749
+2013,Annuaire Statistique 2013 (https://education.sn/sites/default/files/2019-07/ANNUAIRE%202013%20l.pdf); Data extracted on 01 April 2022.,"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",Primary education,22.57346
+2014,Annuaire Statistique 2014 (https://education.sn/sites/default/files/2019-07/ANNUAIRE%20%202014.pdf); Data extracted on 01 April 2022.,"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",Primary education,23.03063
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",Primary education,40.25911
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Secondary education (lower and upper secondary education),82.53165
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Secondary education (lower and upper secondary education),79.40455
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Primary education,27.26482
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Primary education,28.50347
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Lower secondary education,81.16025
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Lower secondary education,73.60491
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Upper secondary education,84.86328
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",Upper secondary education,89.18156
+2012,Annuaire Statistique 2012 (https://education.sn/sites/default/files/2019-07/ANNUAIRE%202012.pdf); Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Primary education,28.9832
+2013,Annuaire Statistique 2013 (https://education.sn/sites/default/files/2019-07/ANNUAIRE%202013%20l.pdf); Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Primary education,31.9902
+2014,Annuaire Statistique 2014 (https://education.sn/sites/default/files/2019-07/ANNUAIRE%20%202014.pdf); Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Primary education,31.95056
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Primary education,44.09746
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Primary education,45.69499
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Lower secondary education,83.53795
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Upper secondary education,91.40625
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to electricity, by education level [4.a.1]",Upper secondary education,95.01411
+2014,PASEC 2014 avg G2 & G6; Data extracted on 01 April 2022.,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Primary education,69.21996
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Primary education,78.30417
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Primary education,79.52621
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Lower secondary education,94.36384
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Upper secondary education,94.33594
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Upper secondary education,98.5889
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Secondary education (lower and upper secondary education),46.32911
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Secondary education (lower and upper secondary education),44.09807
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Primary education,12.93629
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Primary education,13.75702
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Lower secondary education,42.38943
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Lower secondary education,34.20759
+2019,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Upper secondary education,53.02734
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,"Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",Upper secondary education,60.7714
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1],Primary education,33.28894
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1],Lower secondary education,36.43973
+2020,UNESCO Institute for Statistics.  Data extracted on 01 April 2022.,Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1],Upper secondary education,42.0508

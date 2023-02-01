@@ -28,18 +28,6 @@
             "title": "SDG Series"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Unit of measure",
             "type": "string",
             "constraints": {

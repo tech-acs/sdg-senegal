@@ -1,4 +1,8 @@
 From,To
-Age,COMMENT_OBS
-SOURCE_DETAIL,Age
-Age,Sex
+OBS_STATUS,SOURCE_DETAIL
+COMMENT_OBS,Disability status
+Source details,COMMENT_OBS
+SOURCE_DETAIL,SDG Series
+SDG Series,Source details
+Source details,Sex
+Source details,Age
